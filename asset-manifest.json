@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pushp1992.github.io/react-gh-pages/static/css/main.2eb9b471.css",
+    "main.js": "/pushp1992.github.io/react-gh-pages/static/js/main.14eafa92.js",
+    "static/js/787.0420ccf9.chunk.js": "/pushp1992.github.io/react-gh-pages/static/js/787.0420ccf9.chunk.js",
+    "static/media/logo-horizontal.svg": "/pushp1992.github.io/react-gh-pages/static/media/logo-horizontal.5a85901c8eb7797ec89635eeb7853932.svg",
+    "static/media/user-icon.svg": "/pushp1992.github.io/react-gh-pages/static/media/user-icon.8ddb7ec90090ca54ac81922081efb8cf.svg",
+    "index.html": "/pushp1992.github.io/react-gh-pages/index.html",
+    "main.2eb9b471.css.map": "/pushp1992.github.io/react-gh-pages/static/css/main.2eb9b471.css.map",
+    "main.14eafa92.js.map": "/pushp1992.github.io/react-gh-pages/static/js/main.14eafa92.js.map",
+    "787.0420ccf9.chunk.js.map": "/pushp1992.github.io/react-gh-pages/static/js/787.0420ccf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eb9b471.css",
+    "static/js/main.14eafa92.js"
+  ]
+}
