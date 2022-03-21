@@ -1,11 +1,6 @@
-
 /* src/template/nav-bar/index.js */
 /* src/template/header/index.js */
 @media screen and (max-width: 425px) {
-    .logo> :last-child {
-        display: none;
-    }
-
     .username> :last-child {
         display: none;
     }
@@ -15,6 +10,7 @@
         justify-content: center;
         align-items: flex-start;
     }
+
     .header-right {
         padding: 15px 0 0 45px;
     }
