@@ -7,7 +7,7 @@ import ListingPage from '../../template/listing-page';
 export default function RouteList() {
     return (
         <Routes>
-            <Route path='/' element={<ListingPage />} />
+            <Route path='/deliveroo-listing-page-frontend' element={<ListingPage />} />
             <Route path='/about-us' element={<AboutUs />} />
             <Route path='/listing' element={<SearchResultPage />} />
         </Routes>

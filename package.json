@@ -2,7 +2,7 @@
   "name": "assignment",
   "description": "this is a frontend assignment for Deliveroo food startup",
   "version": "0.1.0",
-  "homepage": "https:/pushp1992.github.io/react-gh-pages",
+  "homepage": "https://pushp1992.github.io/deliveroo-listing-page-frontend/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
