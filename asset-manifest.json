@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/deliveroo-listing-page-frontend/static/css/main.2eb9b471.css",
-    "main.js": "/deliveroo-listing-page-frontend/static/js/main.c3b589d7.js",
+    "main.js": "/deliveroo-listing-page-frontend/static/js/main.30a01807.js",
     "static/js/787.0420ccf9.chunk.js": "/deliveroo-listing-page-frontend/static/js/787.0420ccf9.chunk.js",
     "static/media/logo-horizontal.svg": "/deliveroo-listing-page-frontend/static/media/logo-horizontal.5a85901c8eb7797ec89635eeb7853932.svg",
     "static/media/user-icon.svg": "/deliveroo-listing-page-frontend/static/media/user-icon.8ddb7ec90090ca54ac81922081efb8cf.svg",
     "index.html": "/deliveroo-listing-page-frontend/index.html",
     "main.2eb9b471.css.map": "/deliveroo-listing-page-frontend/static/css/main.2eb9b471.css.map",
-    "main.c3b589d7.js.map": "/deliveroo-listing-page-frontend/static/js/main.c3b589d7.js.map",
+    "main.30a01807.js.map": "/deliveroo-listing-page-frontend/static/js/main.30a01807.js.map",
     "787.0420ccf9.chunk.js.map": "/deliveroo-listing-page-frontend/static/js/787.0420ccf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2eb9b471.css",
-    "static/js/main.c3b589d7.js"
+    "static/js/main.30a01807.js"
   ]
 }
