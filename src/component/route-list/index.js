@@ -7,7 +7,9 @@ import ListingPage from '../../template/listing-page';
 export default function RouteList() {
     return (
         <Routes>
-            <Route path='/deliveroo-listing-page-frontend' element={<ListingPage />} />
+            {/* The below commeneted route is required for published gh-page */}
+            {/* <Route path='/deliveroo-listing-page-frontend' element={<ListingPage />} /> */}
+            <Route path='/' element={<ListingPage />} />
             <Route path='/about-us' element={<AboutUs />} />
             <Route path='/listing' element={<SearchResultPage />} />
         </Routes>
