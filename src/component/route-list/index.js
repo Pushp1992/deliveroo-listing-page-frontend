@@ -9,7 +9,7 @@ export default function RouteList() {
         <Routes>
             {/* The below commeneted route is required for published gh-page */}
             {/* <Route path='/deliveroo-listing-page-frontend' element={<ListingPage />} /> */}
-            <Route path='/master.dpwxzmoj5tdni.amplifyapp.com' element={<ListingPage />} />
+            <Route path='/feat-route-chnage.dpwxzmoj5tdni.amplifyapp.com' element={<ListingPage />} />
             {/* <Route path='/' element={<ListingPage />} /> */}
             <Route path='/about-us' element={<AboutUs />} />
             <Route path='/listing' element={<SearchResultPage />} />
